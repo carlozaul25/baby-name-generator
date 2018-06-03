@@ -5,7 +5,7 @@
 
 		var carlosArray= ['Angela','Sofia','Isabella','Jazmin',
 		'Victoria','Alma','Abigail','Maribel','Alicia','Giana','Belen',
-		'Fabiola','Selena','Olivia','Juliette','Celeste','Claudia','Paula','Paola'];
+		'Fabiola','Selena','Olivia','Juliette','Celeste','Claudia','Paula','Paola','Alessandra'];
 
 		var answer1 = jennArray[Math.floor(Math.random()*jennArray.length)];
 		
